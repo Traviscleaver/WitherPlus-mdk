@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "firstmod:wither_planks"
+    }
+  },
+  "pattern": [
+    "   ",
+    "   ",
+    "SSS"
+  ],
+  "result": {
+    "count": 6,
+    "item": "firstmod:wither_slab"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "firstmod:block/soul_soil_pressure_plate"
+    },
+    "powered=true": {
+      "model": "firstmod:block/soul_soil_pressure_plate_down"
+    }
+  }
+}

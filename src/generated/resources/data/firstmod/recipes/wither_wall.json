@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "item": "firstmod:wither_planks"
+    }
+  },
+  "pattern": [
+    "   ",
+    "SSS",
+    "SAS"
+  ],
+  "result": {
+    "count": 3,
+    "item": "firstmod:wither_wall"
+  },
+  "show_notification": true
+}
