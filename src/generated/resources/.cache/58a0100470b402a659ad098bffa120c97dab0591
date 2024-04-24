@@ -1,0 +1,5 @@
+// 1.20.1	2024-04-23T05:01:52.7430835	Global Loot Modifiers : firstmod
+6dfe2e5071d7f064693f0b9bf7d641ce43dee137 data/firstmod/loot_modifiers/bone_marrow_from_wither_skeleton.json
+56b943d2d60331dc5cde67b07481ca4584a97121 data/firstmod/loot_modifiers/wither_shard_from_wither.json
+28cbf13d93b10c049de59d82a386a93c4082c7a6 data/firstmod/loot_modifiers/wither_shard_from_wither_skeleton.json
+7035b117de46281ce8b47e98d836f64f92c24e72 data/forge/loot_modifiers/global_loot_modifiers.json

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:nether_star"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    },
+    "C": {
+      "item": "firstmod:hardened_wither_ingot"
+    },
+    "S": {
+      "item": "firstmod:wither_ingot"
+    }
+  },
+  "pattern": [
+    " SB",
+    "CAB",
+    " SB"
+  ],
+  "result": {
+    "item": "firstmod:wither_bow"
+  },
+  "show_notification": true
+}

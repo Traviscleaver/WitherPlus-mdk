@@ -1,0 +1,6 @@
+{
+    "parent": "firstmod:item/regwither_bow",
+    "textures": {
+        "layer0": "firstmod:item/regwither_bow_pulling_0"
+    }
+}

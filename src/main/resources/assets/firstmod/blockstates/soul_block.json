@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "snowy=false": [
+      {
+        "model": "firstmod:block/soul_block"
+      },
+      {
+        "model": "firstmod:block/soul_block",
+        "y": 90
+      },
+      {
+        "model": "firstmod:block/soul_block",
+        "y": 180
+      },
+      {
+        "model": "firstmod:block/soul_block",
+        "y": 270
+      }
+    ],
+    "snowy=true": {
+      "model": "minecraft:block/grass_block_snow"
+    }
+  }
+}

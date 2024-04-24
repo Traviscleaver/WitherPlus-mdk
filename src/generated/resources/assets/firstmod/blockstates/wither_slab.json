@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "firstmod:block/wither_slab"
+    },
+    "type=double": {
+      "model": "firstmod:block/wither_planks"
+    },
+    "type=top": {
+      "model": "firstmod:block/wither_slab_top"
+    }
+  }
+}

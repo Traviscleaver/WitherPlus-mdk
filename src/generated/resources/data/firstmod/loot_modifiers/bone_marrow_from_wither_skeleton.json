@@ -1,0 +1,14 @@
+{
+  "type": "firstmod:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/wither_skeleton"
+    },
+    {
+      "chance": 0.7,
+      "condition": "minecraft:random_chance"
+    }
+  ],
+  "item": "firstmod:bone_marrow"
+}

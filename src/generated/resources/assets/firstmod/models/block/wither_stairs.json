@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "firstmod:block/wither_planks",
+    "side": "firstmod:block/wither_planks",
+    "top": "firstmod:block/wither_planks"
+  }
+}

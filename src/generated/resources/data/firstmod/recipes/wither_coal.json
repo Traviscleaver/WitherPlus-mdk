@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:coal"
+    },
+    "S": {
+      "item": "firstmod:wither_shard"
+    }
+  },
+  "pattern": [
+    " S ",
+    "SAS",
+    " S "
+  ],
+  "result": {
+    "item": "firstmod:wither_coal"
+  },
+  "show_notification": true
+}

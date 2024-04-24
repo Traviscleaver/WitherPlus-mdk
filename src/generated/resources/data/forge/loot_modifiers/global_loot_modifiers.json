@@ -1,0 +1,8 @@
+{
+  "entries": [
+    "firstmod:wither_shard_from_wither_skeleton",
+    "firstmod:wither_shard_from_wither",
+    "firstmod:bone_marrow_from_wither_skeleton"
+  ],
+  "replace": false
+}

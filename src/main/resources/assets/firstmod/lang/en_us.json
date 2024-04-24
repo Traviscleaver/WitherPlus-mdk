@@ -1,0 +1,77 @@
+{
+
+  "block.firstmod.catmint": "Catmint",
+
+  "block.firstmod.wither_block": "Withered Block",
+  "item.firstmod.wither_shard": "Wither Shard",
+  "item.firstmod.wither_arrow": "Soul Arrow",
+  "item.firstmod.wither_stew": "Wither Stew",
+  "item.firstmod.wither_ingot": "Withered Ingot",
+  "item.firstmod.hardened_wither_ingot": "Tough Withered Ingot",
+  "item.firstmod.wither_coal": "Withered Coal",
+  "item.firstmod.bone_marrow": "Bone Marrow",
+  "item.firstmod.wither_charm": "Withered Charm",
+  "item.firstmod.blaze_charm": "Blazed Charm",
+  "item.firstmod.heart_charm": "Health Charm",
+  "item.firstmod.night_charm": "Sight Charm",
+  "item.firstmod.speed_charm": "Speed Charm",
+
+  "item.firstmod.wither_sword": "Withered Sword",
+  "item.firstmod.wither_bow": "Soul Bow",
+  "item.firstmod.regwither_bow": "Withered Bow",
+  "item.firstmod.wither_battleaxe": "Withered Battleaxe",
+  "item.firstmod.wither_pickaxe": "Withered Pickaxe",
+  "item.firstmod.wither_shovel": "Withered Shovel",
+  "item.firstmod.wither_axe": "Withered Axe",
+
+  "item.firstmod.wither_helmet": "Withered Helmet",
+  "item.firstmod.wither_chestplate": "Withered Chestplate",
+  "item.firstmod.wither_leggings": "Withered Leggings",
+  "item.firstmod.wither_boots": "Withered Boots",
+
+  "block.firstmod.entity_beacon": "Entity Beacon",
+  "block.firstmod.soul_block": "Soul Grass",
+
+  "biome.firstmod.withered_forest": "Withered Forest",
+
+  "block.firstmod.wither_log": "Soul Log",
+  "block.firstmod.wither_trapdoor": "Soul Wood Trapdoor",
+  "block.firstmod.wither_sapling": "Soul Sapling",
+  "block.firstmod.wither_wood": "Soul Wood",
+  "block.firstmod.stripped_wither_log": "Stripped Soul Log",
+  "block.firstmod.stripped_wither_wood": "Stripped Soul Wood",
+
+  "block.firstmod.wither_planks": "Soul Planks",
+  "block.firstmod.wither_leaves": "Soul Leaves",
+  "block.firstmod.wither_shard_ore": "Wither Shard Ore",
+
+  "creativetab.creativetab": "Wither Plus",
+
+  "block.firstmod.wither_stairs": "Soul Wood Stairs",
+  "block.firstmod.wither_slab": "Soul Wood Slab",
+  "block.firstmod.wither_button": "Soul Wood Button",
+  "block.firstmod.wither_pressure_plate": "Soul Wood Pressure Plate",
+  "block.firstmod.wither_fence": "Soul Wood Fence",
+  "block.firstmod.wither_fence_gate": "Soul Wood Fence Gate",
+  "block.firstmod.wither_wall": "Soul Wood Wall",
+  "block.firstmod.wither_door": "Soul Wood Door",
+  "block.firstmod.wither_trap_door": "Soul Wood Trapdoor",
+
+  "block.firstmod.soul_sand_stairs": "Soul Sand Stairs",
+  "block.firstmod.soul_sand_slab": "Soul Sand Slab",
+  "block.firstmod.soul_sand_button": "Soul Sand Button",
+  "block.firstmod.soul_sand_pressure_plate": "Soul Sand Pressure Plate",
+  "block.firstmod.soul_sand_fence": "Soul Sand Fence",
+  "block.firstmod.soul_sand_fence_gate": "Soul Sand Fence Gate",
+  "block.firstmod.soul_sand_wall": "Soul Sand Wall",
+
+
+  "block.firstmod.soul_soil_stairs": "Soul Soil Stairs",
+  "block.firstmod.soul_soil_slab": "Soul Soil Slab",
+  "block.firstmod.soul_soil_button": "Soul Soil Button",
+  "block.firstmod.soul_soil_pressure_plate": "Soul Soil Pressure Plate",
+  "block.firstmod.soul_soil_fence": "Soul Soil Fence",
+  "block.firstmod.soul_soil_fence_gate": "Soul Soil Fence Gate",
+  "block.firstmod.soul_soil_wall": "Soul Soil Wall"
+
+}

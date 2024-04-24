@@ -1,0 +1,8 @@
+// 1.20.1	2024-04-24T08:30:50.6369036	Registries
+d049ec6aab7a1bc6d5fc30a1d86f8dc7e03de1b1 data/firstmod/forge/biome_modifier/add_tree_soul.json
+222b9c54cdda93d67f8ef45cf068b6ea4f8eb6d2 data/firstmod/forge/biome_modifier/add_wither_shard_ore.json
+eb0035cda89ac741d624e15f2da7de14e5fb4277 data/firstmod/worldgen/biome/withered_forest.json
+f28267e2414e595de5d1280f75a6b3b128f7e5ab data/firstmod/worldgen/configured_feature/soul.json
+54631c0fe9a1d0b69f1b805838f512b1b8a9f571 data/firstmod/worldgen/configured_feature/wither_shard_ore.json
+52c9d3239ca80851b8f182d2bdd90ffec490a805 data/firstmod/worldgen/placed_feature/soul_placed.json
+d5a53e708fb3e18a0de86d11536df989a2c85f8c data/firstmod/worldgen/placed_feature/wither_shard_ore_placed.json

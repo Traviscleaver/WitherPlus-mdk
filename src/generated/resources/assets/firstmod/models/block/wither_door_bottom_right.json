@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_bottom_right",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bottom": "firstmod:block/wither_door_bottom",
+    "top": "firstmod:block/wither_door_top"
+  }
+}

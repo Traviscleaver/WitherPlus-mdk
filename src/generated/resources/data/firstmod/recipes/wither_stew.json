@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:bowl"
+    },
+    "B": {
+      "item": "firstmod:bone_marrow"
+    },
+    "S": {
+      "item": "minecraft:wither_rose"
+    }
+  },
+  "pattern": [
+    "S ",
+    "AB"
+  ],
+  "result": {
+    "item": "firstmod:wither_stew"
+  },
+  "show_notification": true
+}

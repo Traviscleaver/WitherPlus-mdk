@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_forest",
+  "features": "firstmod:soul_placed",
+  "step": "vegetal_decoration"
+}

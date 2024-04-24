@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:blaze_rod"
+    },
+    "S": {
+      "item": "firstmod:wither_ingot"
+    }
+  },
+  "pattern": [
+    " SB",
+    "S B",
+    " SB"
+  ],
+  "result": {
+    "item": "firstmod:regwither_bow"
+  },
+  "show_notification": true
+}
